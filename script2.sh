@@ -1,2 +1,2 @@
-echo Você foi infectado! xD
-qterminal infected
+tilix infected
+echo Você foi infectado!
